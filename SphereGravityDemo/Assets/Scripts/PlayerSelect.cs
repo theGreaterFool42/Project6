@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerSelect : MonoBehaviour
 {
-    public static int playerCount = 1;
+    public static int playerCount = 3;
     public string mainLevel;
     
     // Use this for initialization

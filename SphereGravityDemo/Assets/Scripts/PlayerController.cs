@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class PlayerController1 : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
 
     public float moveSpeed = 15;
