@@ -10,6 +10,8 @@ public class PlayerController : MonoBehaviour
     private string[] playerInput1 = new string[3];
     private string[] playerInput2 = new string[3];
     private string[] playerInput3 = new string[3];
+    public GameObject mainCam;
+    public Camera mainCamera;
     //private string horizontalInput;
     //private string verticalInput;
     //private string jumpInput;
@@ -17,6 +19,8 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
+        mainCam = GameObject.FindGameObjectWithTag("MainCamera");
+        mainCamera = mainCam.GetComponent<Camera>();
         playerInput1[0] = "Horizontal1";
         playerInput2[0] = "Horizontal2";
         playerInput3[0] = "Horizontal3";
@@ -30,7 +34,7 @@ public class PlayerController : MonoBehaviour
        
     }
 
-
+    Vector3 screenPos;
     // Update is called once per frame
     void Update()
     {
@@ -68,6 +72,9 @@ public class PlayerController : MonoBehaviour
         if (this.name == "Player1(Clone)")
         {
             moveDirection = new Vector3(Input.GetAxisRaw(playerInput1[0]), 0, Input.GetAxisRaw(playerInput1[1])).normalized;
+            //print(moveDirection);
+            //print(screenPos);
+            //screenPos = mainCamera.WorldToScreenPoint(moveDirection);
             if (Input.GetButtonDown(playerInput1[2]))
             {
                 GetComponent<Rigidbody>().AddForce(transform.up * jumpSpeed);
@@ -76,6 +83,7 @@ public class PlayerController : MonoBehaviour
         else if (this.name == "Player2(Clone)")
         {
             moveDirection = new Vector3(Input.GetAxisRaw(playerInput2[0]), 0, Input.GetAxisRaw(playerInput2[1])).normalized;
+            //screenPos = mainCamera.WorldToScreenPoint(moveDirection);
             if (Input.GetButtonDown(playerInput2[2]))
             {
                 GetComponent<Rigidbody>().AddForce(transform.up * jumpSpeed);
@@ -84,6 +92,7 @@ public class PlayerController : MonoBehaviour
         else if (this.name == "Player3(Clone)")
         {
             moveDirection = new Vector3(Input.GetAxisRaw(playerInput3[0]), 0, Input.GetAxisRaw(playerInput3[1])).normalized;
+            //screenPos = mainCamera.WorldToScreenPoint(moveDirection);
             if (Input.GetButtonDown(playerInput3[2]))
             {
                 GetComponent<Rigidbody>().AddForce(transform.up * jumpSpeed);

@@ -8,6 +8,8 @@ public class GravityBody : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        //transformObject = GameObject.FindGameObjectWithTag("World").GetComponent<Transform>();
+        
         this.GetComponent<Rigidbody>().constraints = RigidbodyConstraints.FreezeRotation;
         this.GetComponent<Rigidbody>().useGravity = false;
         transformObject = transform;
