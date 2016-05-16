@@ -1,0 +1,364 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=15 insize=1953 outsize=3292 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=970 outsize=2853 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2853 outsize=4514 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=970 outsize=3029 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=3029 outsize=4795 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=970 outsize=2853 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2853 outsize=4514 ok=1
+Cmd: disassembleShader
+  api=17 insize=5741 outsize=8149 ok=1
+Cmd: disassembleShader
+  api=17 insize=5693 outsize=8018 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=970 outsize=4216 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=4216 outsize=7669 ok=1
+Cmd: disassembleShader
+  api=15 insize=2013 outsize=3324 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=927 outsize=1268 kw=SPOT SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1268 outsize=2159 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=927 outsize=1256 kw=DIRECTIONAL_COOKIE SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1256 outsize=2118 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=927 outsize=1360 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1360 outsize=2291 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=927 outsize=1320 kw=POINT SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1320 outsize=2267 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=927 outsize=2425 kw=POINT_COOKIE SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2425 outsize=3930 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=3145 kw=POINT SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3145 outsize=4465 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=3389 kw=SPOT SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3389 outsize=4827 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=3041 kw=DIRECTIONAL_COOKIE SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3041 outsize=4342 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=3069 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3069 outsize=4377 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=927 outsize=2156 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=2156 outsize=3839 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=927 outsize=2636 kw=SPOT SHADOWS_DEPTH SHADOWS_SOFT SHADOWS_NATIVE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=2636 outsize=4616 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=927 outsize=3945 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3945 outsize=5777 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=693 kw=SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=693 outsize=1435 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=751 outsize=284 kw=SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=284 outsize=526 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1152 outsize=1216 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1152 outsize=1412 kw=LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1152 outsize=1412 kw=LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1152 outsize=1216 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=1152 outsize=1412 kw=LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1152 outsize=2309 kw=LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1152 outsize=1773 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1773 outsize=3398 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1152 outsize=1228 kw=LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=1228 outsize=2276 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1152 outsize=1228 kw=LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=1228 outsize=2276 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1152 outsize=1192 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=1192 outsize=2205 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1152 outsize=1192 kw=LIGHTMAP_OFF DIRLIGHTMAP_COMBINED DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=1192 outsize=2205 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1152 outsize=1192 kw=LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_OFF UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=1192 outsize=2205 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1152 outsize=1749 kw=LIGHTMAP_OFF DIRLIGHTMAP_SEPARATE DYNAMICLIGHTMAP_OFF _EMISSION UNITY_HDR_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1749 outsize=3371 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=877 outsize=3493 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=3493 outsize=6707 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=877 outsize=3141 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=3141 outsize=4878 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=877 outsize=4881 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=4881 outsize=8895 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=877 outsize=2236 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=2236 outsize=3695 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=877 outsize=2400 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION VERTEXLIGHT_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=2400 outsize=3989 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=877 outsize=1612 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=11 insize=1612 outsize=2772 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=877 outsize=2197 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=2197 outsize=3758 ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=877 outsize=3169 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=14 insize=3169 outsize=6598 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=808 outsize=1136 kw=DIRECTIONAL SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=9 insize=1136 outsize=1907 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=2089 kw=DIRECTIONAL SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2089 outsize=3413 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=3637 kw=SPOT SHADOWS_OFF pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=3637 outsize=6881 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=3549 kw=DIRECTIONAL_COOKIE SHADOWS_OFF pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=3549 outsize=6769 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=2265 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2265 outsize=3694 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=808 outsize=2605 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2605 outsize=4161 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=808 outsize=3725 kw=POINT SHADOWS_CUBE pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=3725 outsize=7058 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=1421 kw=POINT SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1421 outsize=2620 ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=1905 kw=DIRECTIONAL SHADOWS_OFF pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=14 insize=1905 outsize=4176 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=1513 kw=POINT_COOKIE SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1513 outsize=2785 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=1393 kw=DIRECTIONAL_COOKIE SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1393 outsize=2586 ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=2889 kw=SPOT SHADOWS_DEPTH SHADOWS_NATIVE pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=14 insize=2889 outsize=6186 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=808 outsize=1160 kw=DIRECTIONAL_COOKIE SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=11 insize=1160 outsize=1986 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=808 outsize=1757 kw=POINT SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=1757 outsize=3181 ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=808 outsize=2805 kw=POINT_COOKIE SHADOWS_CUBE pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=14 insize=2805 outsize=6047 ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=600 outsize=2645 kw=SHADOWS_DEPTH pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=13 insize=2645 outsize=4938 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=600 outsize=296 kw=SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=11 insize=296 outsize=535 ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=600 outsize=525 kw=SHADOWS_CUBE pd=UNITY_NO_LINEAR_COLORSPACE UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF3 ok=1
+Cmd: disassembleShader
+  api=14 insize=525 outsize=1501 ok=1
+Cmd: disassembleShader
+  api=15 insize=1953 outsize=3292 ok=1
+Cmd: disassembleShader
+  api=10 insize=2028 outsize=3328 ok=1
+Cmd: disassembleShader
+  api=15 insize=3029 outsize=4795 ok=1
+Cmd: disassembleShader
+  api=15 insize=2129 outsize=3573 ok=1
+Cmd: disassembleShader
+  api=10 insize=2204 outsize=3647 ok=1
+Cmd: disassembleShader
+  api=17 insize=5741 outsize=8149 ok=1
+Cmd: disassembleShader
+  api=12 insize=4216 outsize=7669 ok=1
+Cmd: disassembleShader
+  api=15 insize=2353 outsize=3796 ok=1
+Cmd: disassembleShader
+  api=15 insize=2353 outsize=3801 ok=1
+Cmd: disassembleShader
+  api=10 insize=1400 outsize=2359 ok=1
+Cmd: disassembleShader
+  api=15 insize=2189 outsize=3605 ok=1
+Cmd: disassembleShader
+  api=15 insize=2425 outsize=3930 ok=1
+Cmd: disassembleShader
+  api=10 insize=1400 outsize=2359 ok=1
+Cmd: disassembleShader
+  api=10 insize=1320 outsize=2267 ok=1
+Cmd: disassembleShader
+  api=17 insize=3145 outsize=4465 ok=1
+Cmd: disassembleShader
+  api=17 insize=3237 outsize=4630 ok=1
+Cmd: disassembleShader
+  api=12 insize=2048 outsize=3674 ok=1
+Cmd: disassembleShader
+  api=12 insize=2392 outsize=4203 ok=1
+Cmd: disassembleShader
+  api=12 insize=2636 outsize=4616 ok=1
+Cmd: disassembleShader
+  api=17 insize=3853 outsize=5612 ok=1
+Cmd: disassembleShader
+  api=15 insize=693 outsize=1435 ok=1
+Cmd: disassembleShader
+  api=17 insize=349 outsize=907 ok=1
+Cmd: disassembleShader
+  api=10 insize=1216 outsize=1991 ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: disassembleShader
+  api=10 insize=1412 outsize=2423 ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: disassembleShader
+  api=15 insize=2309 outsize=3768 ok=1
+Cmd: disassembleShader
+  api=12 insize=1360 outsize=2495 ok=1
+Cmd: disassembleShader
+  api=12 insize=1360 outsize=2495 ok=1
+Cmd: disassembleShader
+  api=12 insize=1360 outsize=2495 ok=1
+Cmd: disassembleShader
+  api=12 insize=1324 outsize=2424 ok=1
+Cmd: disassembleShader
+  api=17 insize=1749 outsize=3371 ok=1
+Cmd: disassembleShader
+  api=17 insize=1749 outsize=3371 ok=1
+Cmd: disassembleShader
+  api=9 insize=1764 outsize=3019 ok=1
+Cmd: disassembleShader
+  api=13 insize=3745 outsize=7151 ok=1
+Cmd: disassembleShader
+  api=15 insize=3317 outsize=5159 ok=1
+Cmd: disassembleShader
+  api=15 insize=2445 outsize=3963 ok=1
+Cmd: disassembleShader
+  api=9 insize=1764 outsize=3019 ok=1
+Cmd: disassembleShader
+  api=9 insize=2236 outsize=3695 ok=1
+Cmd: disassembleShader
+  api=9 insize=2400 outsize=3989 ok=1
+Cmd: disassembleShader
+  api=11 insize=1612 outsize=2772 ok=1
+Cmd: disassembleShader
+  api=11 insize=1632 outsize=2826 ok=1
+Cmd: disassembleShader
+  api=11 insize=1744 outsize=2988 ok=1
+Cmd: disassembleShader
+  api=15 insize=2505 outsize=3974 ok=1
+Cmd: disassembleShader
+  api=13 insize=3045 outsize=5976 ok=1
+Cmd: disassembleShader
+  api=15 insize=2505 outsize=3974 ok=1
+Cmd: disassembleShader
+  api=9 insize=1380 outsize=2305 ok=1
+Cmd: disassembleShader
+  api=13 insize=3929 outsize=7406 ok=1
+Cmd: disassembleShader
+  api=15 insize=2605 outsize=4161 ok=1
+Cmd: disassembleShader
+  api=13 insize=3725 outsize=7058 ok=1
+Cmd: disassembleShader
+  api=13 insize=3725 outsize=7058 ok=1
+Cmd: disassembleShader
+  api=14 insize=2137 outsize=4688 ok=1
+Cmd: disassembleShader
+  api=17 insize=1665 outsize=2982 ok=1
+Cmd: disassembleShader
+  api=14 insize=2277 outsize=4985 ok=1
+Cmd: disassembleShader
+  api=17 insize=1921 outsize=3424 ok=1
+Cmd: disassembleShader
+  api=14 insize=2149 outsize=4718 ok=1
+Cmd: disassembleShader
+  api=11 insize=1368 outsize=2327 ok=1
+Cmd: disassembleShader
+  api=11 insize=1464 outsize=2470 ok=1
+Cmd: disassembleShader
+  api=15 insize=1733 outsize=2618 ok=1
+Cmd: disassembleShader
+  api=15 insize=693 outsize=1435 ok=1
+Cmd: disassembleShader
+  api=11 insize=296 outsize=535 ok=1
